@@ -10,13 +10,13 @@ These are feedForward() and backPropagate() passes:
 
 	void feedForward()
 	{
-		v_hidden = dotVM_b(v_inputs, wih) + dotVM_b(v_context, wch);   // Calculate input and v_context connections to v_hidden layer.
+		v_hidden = dotVM_b(v_inputs, wih) + dotVM_b(v_context, wch);   // Calculate input and context connections to hidden layer.
 		v_hidden = sigm(v_hidden);
 
-		v_output = dotVM_b(v_hidden, who);                             //  Calculate the v_hidden to output layer.
+		v_output = dotVM_b(v_hidden, who);                             //  Calculate the hidden to output layer.
 		v_output = sigm(v_output);
 
-		v_context = v_hidden;                                          // Copy outputs of the v_hidden to v_context layer.
+		v_context = v_hidden;                                          // Copy outputs of the hidden to v_context layer.
 	}
 	void backPropagate()
 	{
