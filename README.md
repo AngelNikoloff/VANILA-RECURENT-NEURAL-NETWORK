@@ -2,6 +2,8 @@
 
 Because the purpose of this project is education - I made it as simple as posible;
 
+![Screenshot](net.bmp)
+
 The NET is learning this sequence: = 0352 0352 0352 0352 0352 0352 ..... 
 
 These are feedForward() and backPropagate() passes:
