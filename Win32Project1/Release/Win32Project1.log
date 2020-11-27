@@ -1,0 +1,10 @@
+﻿  Source.cpp
+Source.cpp(83): warning C4018: '<=': signed/unsigned mismatch
+Source.cpp(94): warning C4018: '<=': signed/unsigned mismatch
+Source.cpp(295): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+Source.cpp(315): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Generating code
+  All 286 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Win32Project1.vcxproj -> E:\ANN\RECURENT NEURAL NETOWRK\VANILA RNN\ANGEL\GITHUB\ELMAN_1\Win32Project1\Release\Win32Project1.exe
+  Win32Project1.vcxproj -> E:\ANN\RECURENT NEURAL NETOWRK\VANILA RNN\ANGEL\GITHUB\ELMAN_1\Win32Project1\Release\Win32Project1.pdb (Full PDB)
