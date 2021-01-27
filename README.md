@@ -1,4 +1,4 @@
-# SIMPLE-VANILA-RECURENT-NEURAL-NETWORK
+# SIMPLE-RECURENT-NEURAL-NETWORK
 
 Because the purpose of this project is education - I made it as simple as posible;
 
