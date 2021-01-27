@@ -6,7 +6,7 @@ Because the purpose of this project is education - I made it as simple as posibl
 
 This is sequence prediction network.
 
-The NET is learning this sequence: = 0352 0352 0352 0352 0352 0352 ..... 
+The NET is learning this sequence: = ".Simple Recurrent Network." ..... 
 
 These are feedForward() and backPropagate() passes:
 
