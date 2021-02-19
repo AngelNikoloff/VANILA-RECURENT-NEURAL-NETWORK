@@ -1,5 +1,7 @@
 # SIMPLE-RECURENT-NEURAL-NETWORK
 
+NO-DEPENDENCIES!
+
 Because the purpose of this project is education - I made it as simple as posible;
 
 ![Screenshot](net.bmp)
