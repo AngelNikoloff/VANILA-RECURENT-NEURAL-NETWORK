@@ -1,4 +1,7 @@
-# SIMPLE-RECURENT-NEURAL-NETWORK
+# SIMPLE-PSEUDO-RECURENT-NEURAL-NETWORK
+
+It is not exacly recurent network - because it not unroll itself!!!!
+But can work as such with limited power.
 
 NO-DEPENDENCIES!
 
