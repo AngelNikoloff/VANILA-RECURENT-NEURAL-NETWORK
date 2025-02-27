@@ -1,6 +1,7 @@
 # SIMPLE-PSEUDO-RECURENT-NEURAL-NETWORK
 
-It is not exacly recurent network - because it not unroll itself!!!!
+It is not exacly full recurent network - because it not unroll itself through time!!!!
+It do not have BPTT - Back Propagation Through Time!
 But can work as such with limited power.
 
 NO-DEPENDENCIES!
